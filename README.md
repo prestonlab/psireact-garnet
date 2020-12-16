@@ -1,5 +1,7 @@
 # psireact-garnet
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4329658.svg)](https://doi.org/10.5281/zenodo.4329658)
+
 Hierarchical Bayesian modeling of response time data.
 
 ## Installation
