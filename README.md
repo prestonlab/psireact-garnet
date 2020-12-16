@@ -18,3 +18,5 @@ Molitor RJ, Sherrill KR, Morton NW, Miller AA, Preston, AR.
 Memory reactivation during learning simultaneously promotes dentate gyrus/CA2,3 pattern differentiation and CA1 memory integration.
 Journal of Neuroscience.
 [doi:10.1523/JNEUROSCI.0394-20.2020](https://doi.org/10.1523/JNEUROSCI.0394-20.2020)
+
+See `jupyter/inference_model.ipynb` for a Jupyter notebook with code, statistics, and plots.
