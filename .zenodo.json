@@ -1,0 +1,35 @@
+{
+    "title": "PsiReact-Garnet: Hierarchical Bayesian modeling of response time data",
+    "license": {
+        "id": "GPL-3.0"
+    },
+    "upload_type": "software",
+    "creators": [
+        {
+            "name": "Neal W Morton",
+            "affiliation": "The University of Texas at Austin",
+            "orcid": "0000-0002-2631-2710"
+        },
+        {
+            "name": "Robert J. Molitor",
+            "affiliation": "University of Oregon",
+            "orcid": "0000-0001-7129-4438"
+        },
+        {
+            "name": "Katherine R. Sherrill",
+            "affiliation": "The University of Texas at Austin",
+            "orcid": "0000-0002-6487-2698"
+        },
+        {
+            "name": "Alexandra A. Miller",
+            "affiliation": "University of Texas MD Anderson Cancer Center",
+            "orcid": "0000-0001-6748-0983"
+        },
+        {
+            "name": "Alison R. Preston",
+            "affiliation": "The University of Texas at Austin",
+            "orcid": "0000-0003-2706-6862"
+        }
+    ],
+    "access_right": "open"
+}
