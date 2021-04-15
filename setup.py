@@ -19,9 +19,9 @@ setup(
         'scipy',
         'pandas',
         'seaborn',
-        'theano',
-        'pymc3',
-        'psireact',
+        'theano~=1.0',
+        'pymc3~=3.9',
+        'psireact~=0.2',
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
